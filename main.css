@@ -1,0 +1,33 @@
+html {
+    font-size: 20px;
+  }
+  body {
+    font-size: 1rem;
+  }
+  h1 { 
+    font-size: 3rem;
+    /*
+    margin: all
+    margin: top/bottom left/right
+    margin: top right bottom left
+    */
+    margin: 0;
+ }
+ p { 
+   font-family: Arial, Helvetica, sans-serif;  
+ }
+
+  .ingress {
+      font-size: 1.2rem;
+      color: gray;
+  }
+  #storre {
+      font-size: 2rem;
+  }
+
+  h1 { 
+    font-size: 50px;
+    font-weight: bold;
+    text-transform: capitalize;
+    line-height: 1;
+  }
