@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bloggen</title>
+    <link rel="stylesheet" href="css/main.css">
+    <style>
+      h1 { 
+        font-size: 3rem;
+      }
+
+    </style>
+    
+  </head>
+  <body>
+    <h1 style="font-size: 5rem;">Hej och välkomma till min blogg</h1>
+    <p class="ingress">Lorem ipsum dolor, sit amet consectetur adipisicing elit. Praesentium eius quod ab maxime alias. Fugiat sapiente quam odit amet adipisci!</p>
+    <p id="storre">Lorem ipsum dolor sit amet consectetur adipisicing elit. Modi at quis tenetur debitis dolores, natus mollitia ipsa? Reprehenderit, alias asperiores nihil laborum dolorem at cum minus optio laudantium sunt eum?</p>
+    <img src="images/bild.djur.jpg" alt="bild på djur">
+  </body>
+</html>
